@@ -1,5 +1,5 @@
 # StateFulltoAbbreviation
-##Code for converting U.S. state full names to abbreviations in Power Query M language
+Code for converting U.S. state full names to abbreviations in Power Query M language
 
 This is code you can plug into Power Query in Microsoft Excel or Power BI if you need to convert U.S. state names to their abbreviations. 
 
